@@ -1,0 +1,11 @@
+# 70mai Custom Firmware Network Configuration
+# Mode options: STA (Client Mode), AP (Hotspot Mode), OFF, NORMAL
+WIFI_MODE=STA
+
+# Home Wi-Fi Credentials (2.4GHz network recommended for garage range)
+STA_SSID=Your_Home_WiFi_SSID
+STA_PASSWD=Your_Home_WiFi_Password
+
+# Enable Services
+ENABLE_FTP=1
+ENABLE_TELNET=1
